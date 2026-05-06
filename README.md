@@ -1,14 +1,15 @@
 # 👋 Ola, eu sou o Kauan Ramalho!
 
-💻 Estudante de Engenharia da Computação (4º período)  
+💻 Estudante de Engenharia da Computação (5º período)  
 🚀 Desenvolvedor em formação  
-📊 Criando soluções para facilitar a vida acadêmica  
+📊 Criando soluções para facilitar a vida  
 
 ---
 
 ## 📌 Projetos
 
-- 📊 Calculadora de Notas Acadêmicas  
+- 📊 Calculadora de Notas Acadêmicas
+- 📊 Controle Financeiro
 
 ---
 
@@ -24,7 +25,7 @@
 - Java 
 
 ### 🗄️ Banco de dados
-- SQL  
+- MySQL  
 ---
 
 ## 📫 Contato
